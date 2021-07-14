@@ -1,4 +1,5 @@
 # BinarySearchTree
 
-![bst](https://user-images.githubusercontent.com/63575713/125683972-b575bf62-0706-450c-bcb5-75f7aca0d4d2.gif)
+![Binary Search Tree 2021-07-15 01-33-52](https://user-images.githubusercontent.com/63575713/125686418-e7204f1d-087d-45ca-b589-7fceea1a0be7.gif)
+
 
