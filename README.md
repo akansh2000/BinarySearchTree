@@ -1,3 +1,4 @@
 # BinarySearchTree
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:52.22%;position:relative;"><iframe width="360" height="188" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/5ghb31"></iframe></div><p><a href="https://imgflip.com/gif/5ghb31">via Imgflip</a></p></div>
+![bst](https://user-images.githubusercontent.com/63575713/125683972-b575bf62-0706-450c-bcb5-75f7aca0d4d2.gif)
+
